@@ -83,11 +83,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://dtrx.bisubilar.org" target="_blank">
-    <img src="./public/dtrx.png" alt="DTR-X System Preview" width="85%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 240, 255, 0.2);" />
-  </a>
-  <br/><br/>
-  
   <p>
     <a href="https://dtrx.bisubilar.org" target="_blank">
       <img src="https://img.shields.io/badge/Live_Demo-dtrx.bisubilar.org-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
@@ -264,32 +259,6 @@
 - 📜 **Research Presenter Award** — *1st ICBEIST (Apr 2025)*
 
 </details>
-
-<br/>
-
----
-
-<!-- GITHUB REAL-TIME STATS -->
-<div align="center">
-  <h2>📊 GitHub Analytics & Activity</h2>
-
-  <br/>
-  
-  <p align="center">
-    <a href="https://github.com/romiyuuu">
-      <img src="https://github-readme-stats.vercel.app/api?username=romiyuuu&show_icons=true&theme=radical&hide_border=false&title_color=00F0FF&icon_color=00F0FF&text_color=E0E6ED&bg_color=0d1117" alt="Romeo's GitHub Stats" width="48%" />
-    </a>
-    <a href="https://github.com/romiyuuu">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=romiyuuu&theme=radical&hide_border=false&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=E0E6ED&sideLabels=E0E6ED&dates=8B5CF6&background=0d1117" alt="Romeo's GitHub Streak" width="48%" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/romiyuuu">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiyuuu&layout=compact&theme=radical&hide_border=false&title_color=00F0FF&text_color=E0E6ED&bg_color=0d1117" alt="Top Languages" width="60%" />
-    </a>
-  </p>
-</div>
 
 <br/>
 
