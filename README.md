@@ -27,36 +27,47 @@
 
 </div>
 
-<!-- ABOUT ME / TERMINAL VIEW -->
+<!-- ABOUT ME OVERVIEW -->
 <details open>
-<summary><b>👨‍💻 <code>miyu@developer:~$ whoami</code> (Click to toggle profile overview)</b></summary>
+<summary><b>👋 About Me & Profile Overview (Click to toggle)</b></summary>
 <br/>
 
-```typescript
-const profile: DeveloperProfile = {
-  name: "Romeo C. Pasilbas Jr.",
-  nickname: "Miyu",
-  title: "CS Graduate | Fullstack Developer & IT Professional",
-  education: "B.S. in Computer Science — Bohol Island State University (2026)",
-  currentRole: "Junior IT & Systems Developer @ 5 ELK",
-  honors: [
-    "🏆 Presidential Award for Innovation (BISU)",
-    "🏆 Programmer Recognition Award – DTRx System",
-    "🏆 The Impact Award & The Exemplary Performance Award",
-  ],
-  focusAreas: [
-    "Fullstack Web & Mobile Development",
-    "IT Systems Troubleshooting & Infrastructure",
-    "Database Architecture & API Integration",
-    "AI/ML & Agentic Automation",
-  ],
-  currentlyExploring: ["Agentic Coding", "Workflow Automation", "Enterprise Networking"],
-  location: "Bohol, Philippines 🇵🇭",
-  availableFor: ["Fullstack Development", "Backend Development", "AI/ML Solutions", "IT & Helpdesk Support"]
-};
-```
+<table>
+  <tr>
+    <td width="18%" align="center"><b>Field</b></td>
+    <td width="82%"><b>Details</b></td>
+  </tr>
+  <tr>
+    <td align="center">👤 <b>Name</b></td>
+    <td><b>Romeo C. Pasilbas Jr.</b> (Nickname: <i>Miyu</i>)</td>
+  </tr>
+  <tr>
+    <td align="center">💼 <b>Current Role</b></td>
+    <td><b>Junior IT & Systems Developer</b> at <b>5 ELK</b></td>
+  </tr>
+  <tr>
+    <td align="center">🎓 <b>Education</b></td>
+    <td><b>Bachelor of Science in Computer Science</b> — Bohol Island State University (2026)</td>
+  </tr>
+  <tr>
+    <td align="center">📍 <b>Location</b></td>
+    <td>Bohol, Philippines 🇵🇭</td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <b>Core Focus</b></td>
+    <td>Fullstack Web & Mobile Development • IT Troubleshooting & Infrastructure • Database Architecture • AI/ML Integration</td>
+  </tr>
+  <tr>
+    <td align="center">🚀 <b>Exploring</b></td>
+    <td>Agentic Coding • Workflow Automation • Enterprise Systems & Networking</td>
+  </tr>
+  <tr>
+    <td align="center">🤝 <b>Available For</b></td>
+    <td>Fullstack Development • Backend Systems • IT & Helpdesk Support • AI Solutions</td>
+  </tr>
+</table>
 
-> *"I am an aspiring IT professional and developer dedicated to crafting efficient, high-impact technology solutions, automating organizational workflows, and continuously pushing the boundaries of modern software engineering."*
+> *"I am an aspiring IT professional and developer focused on applying technical and problem-solving skills to real-world challenges, with interests in troubleshooting, system maintenance, and developing efficient technology solutions, while continuously learning and growing in the field."*
 
 </details>
 
@@ -73,7 +84,7 @@ const profile: DeveloperProfile = {
 
 <div align="center">
   <a href="https://dtrx.bisubilar.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/romiyuuu/my-portfolio/main/public/dtrx.png" alt="DTR-X System Preview" width="85%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 240, 255, 0.2);" onerror="this.src='./public/dtrx.png';" />
+    <img src="./public/dtrx.png" alt="DTR-X System Preview" width="85%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 240, 255, 0.2);" />
   </a>
   <br/><br/>
   
@@ -87,16 +98,16 @@ const profile: DeveloperProfile = {
   </p>
 </div>
 
-### 📌 System Overview & Impact
-**DTR-X** is an enterprise-grade, university-wide web platform built for **Bohol Island State University (BISU)** that digitizes and automates Daily Time Record generation, attendance monitoring, and essential HR workflows. Accessible seamlessly across mobile and desktop environments.
+### 📌 System Overview & Key Impact
+**DTR-X** is an enterprise-grade university web application developed for **Bohol Island State University (BISU)** that automates daily time record generation and streamlines critical HR workflows, accessible seamlessly on both mobile and PC.
 
-- ⚡ **Automated DTR Generation**: Replaces manual time-log calculations with instant, error-free automated DTR processing.
-- 📱 **Cross-Platform Accessibility**: Tailored for both high-density desktop administration and on-the-go mobile employee access.
-- 👥 **Role-Based Workflow Management**: Dynamic permission matrix for faculty, administrative staff, supervisors, and HR personnel.
-- 🏛️ **Multi-Campus Scaling**: Designed to support organizational needs across multiple university campuses.
-- 🎖️ **Recognized with Honors**:
-  - **Presidential Award for Innovation** from the Office of the University President.
-  - **Programmer Recognition Award – DTRx System** from BISU Bilar Campus.
+- ⚡ **Automated DTR Generation**: Replaces tedious manual time records with instant, automated generation and verification.
+- 📱 **Responsive Everywhere**: Fully optimized for high-density administrative desktop portals and mobile on-the-go employee access.
+- 👥 **Role-Based Workflows**: Tailored permissions for university faculty, staff, supervisors, and HR administrators.
+- 🏛️ **Institutional Scale**: Engineered to handle multi-campus data flow and institutional operations.
+- 🎖️ **Honored by the University**:
+  - **Presidential Award for Innovation** — *Office of the President, Bohol Island State University*
+  - **Programmer Recognition Award – DTRx System** — *BISU Bilar Campus*
 
 ### 🛠️ Core Tech Stack
 <p>
@@ -131,7 +142,7 @@ const profile: DeveloperProfile = {
     <td width="78%"><b>Technologies & Frameworks</b></td>
   </tr>
   <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
+    <td align="center">🎨 <b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -145,7 +156,7 @@ const profile: DeveloperProfile = {
     </td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Backend & APIs</b></td>
+    <td align="center">⚙️ <b>Backend & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -159,7 +170,7 @@ const profile: DeveloperProfile = {
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center">🗄️ <b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -170,7 +181,7 @@ const profile: DeveloperProfile = {
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🤖 AI & Developer Tools</b></td>
+    <td align="center">🤖 <b>AI & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Integration" />
       <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
@@ -183,7 +194,7 @@ const profile: DeveloperProfile = {
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🖥️ Systems & IT</b></td>
+    <td align="center">🖥️ <b>Systems & IT</b></td>
     <td>
       <img src="https://img.shields.io/badge/Hardware_&_Network_Troubleshooting-0078D7?style=flat-square" alt="Troubleshooting" />
       <img src="https://img.shields.io/badge/Windows_&_Linux_OS-00A4EF?style=flat-square" alt="OS" />
@@ -197,30 +208,43 @@ const profile: DeveloperProfile = {
 
 <br/>
 
-<!-- EXPERIENCE & LEADERSHIP -->
-<details>
-<summary><b>💼 Professional Experience & Leadership Journey</b></summary>
+<!-- EXPERIENCE & TIMELINE -->
+<details open>
+<summary><b>💼 Professional Experience & Academic Timeline</b></summary>
 <br/>
 
-```mermaid
-journey
-    title Career & Academic Path
-    section Foundation
-      Computer System Servicing (CSS): 5: 2021
-      B.S. in Computer Science (BISU): 5: 2022 - 2026
-    section Development & Leadership
-      Software Developer Intern @ BISU: 5: 2025
-      Project Lead Developer @ BISU (DTR-X): 5: 2026
-    section Professional Industry
-      Junior IT & Systems Developer @ 5 ELK: 5: Present
-```
-
-- **🏢 Junior IT & Systems Developer** | `5 ELK` *(Present)*
-  - Providing technical infrastructure support, systems troubleshooting, and organizational software solutions.
-- **🏛️ Project Lead Developer** | `Bohol Island State University` *(2026)*
-  - Spearheaded development and deployment of **DTR-X**, revolutionizing time record automation across campus operations.
-- **💻 Software Developer Intern** | `Bohol Island State University` *(2025)*
-  - Developed institutional web systems and assisted in institutional digital transition initiatives.
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Role & Organization</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td><b>Present</b></td>
+    <td><b>Junior IT & Systems Developer</b><br/><i>5 ELK</i></td>
+    <td>Managing technical infrastructure, troubleshooting system environments, and developing internal software solutions.</td>
+  </tr>
+  <tr>
+    <td><b>2026</b></td>
+    <td><b>Project Lead Developer</b><br/><i>Bohol Island State University</i></td>
+    <td>Led architecture, development, and university deployment of <b>DTR-X</b> for automated attendance tracking and HR workflows.</td>
+  </tr>
+  <tr>
+    <td><b>2025</b></td>
+    <td><b>Software Developer Intern</b><br/><i>Bohol Island State University</i></td>
+    <td>Built digital institutional web services and participated in system optimization and maintenance.</td>
+  </tr>
+  <tr>
+    <td><b>2026</b></td>
+    <td><b>B.S. in Computer Science</b><br/><i>Bohol Island State University - Bilar Campus</i></td>
+    <td>Honored with the <b>Presidential Award for Innovation</b> and graduated with strong technical focus.</td>
+  </tr>
+  <tr>
+    <td><b>2021</b></td>
+    <td><b>Computer System Servicing (CSS)</b><br/><i>Pilar Technical-Vocational High School</i></td>
+    <td>Hands-on foundation in PC assembly, network configuration, hardware troubleshooting, and OS management.</td>
+  </tr>
+</table>
 
 </details>
 
@@ -274,7 +298,7 @@ journey
 <!-- GET IN TOUCH / INTERACTIVE FOOTER -->
 <div align="center">
   <h2>📬 Let's Connect & Collaborate!</h2>
-  <p>I'm always excited to discuss fullstack engineering, IT infrastructure, AI workflows, or new opportunities.</p>
+  <p>Always open for discussing fullstack development, IT infrastructure, AI automation, or new opportunities.</p>
 
   <a href="https://romeoportfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00F0FF?style=for-the-badge&logoColor=black" alt="Portfolio" />
